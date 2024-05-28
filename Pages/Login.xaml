@@ -12,7 +12,7 @@
       >
 
     <Grid>
-        <Image   Source="/Images/formDesign.png" Stretch="UniformToFill" VerticalAlignment="Center"/>
+        <Image Source="/Images/formDesign.png" Stretch="UniformToFill" VerticalAlignment="Center"/>
 
     </Grid>
 </Page>
